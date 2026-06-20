@@ -120,7 +120,7 @@ body {
 
 .nav-pills .nav-link.active {
   color: #fff;
-  background: linear-gradient(135deg, var(--accent), #9b7dff);
+  background: linear-gradient(135deg, var(--accent), #595959);
   box-shadow: 0 10px 24px rgba(124, 92, 255, 0.32);
 }
 
@@ -221,7 +221,7 @@ body {
 .btn-gradient {
   color: #fff;
   border: 0;
-  background: linear-gradient(135deg, var(--accent), #9b7dff);
+  background: linear-gradient(135deg, var(--accent), #595959);
   box-shadow: 0 12px 28px rgba(124, 92, 255, 0.28);
 }
 
